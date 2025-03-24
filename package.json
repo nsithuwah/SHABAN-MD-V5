@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-MD-V5",
+  "name": "Podi NimXz Md ",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By MR-SHABAN",
+  "description": "A WhatsApp Bot Created By 𝚙𝚘𝚍𝚒 𝙽𝙸𝙼𝙰𝙷",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD-V5",
-    "stop": "pm2 stop SHABAN-MD-V5",
-    "restart": "pm2 restart SHABAN-MD-V5"
+    "stop": "pm2 stop Podi NimXz Md ",
+    "restart": "pm2 restart Podi NimXz Md "
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
